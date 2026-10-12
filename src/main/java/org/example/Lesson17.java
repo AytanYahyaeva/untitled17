@@ -17,7 +17,7 @@ import java.util.Set;
 
 import static org.openqa.selenium.By.id;
 /*
-TASK 1 — Explicit Wait
+TASK 1 — Explicit Waitt
 Dynamic Controls səhifəsini açın:
 Task
 1. Browser-i açın.
